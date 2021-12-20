@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Prepare the day dude! ",
+      "day": "today",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Yo a ti ",
+      "day": "end",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
